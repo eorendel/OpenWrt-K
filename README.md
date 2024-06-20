@@ -10,7 +10,8 @@ LuCI插件：
   [luci-app-adguardhome](https://github.com/chenmozhijin/luci-app-adguardhome) :AdGuardHome广告屏蔽工具的luci设置界面  
   luci-app-ddns：动态 DNS  
   luci-app-firewall 防火墙  
-  luci-app-ipsec-server ipsecVPN
+  luci-app-ipsec-server ipsecVPN 
+  
   [luci-app-netdata](https://github.com/netdata/netdata) 实时监控  
   luci-app-nlbwmon：网络带宽监视器  
   luci-app-opkg：软件包  
