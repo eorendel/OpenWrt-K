@@ -9,13 +9,13 @@
 LuCI插件：  
   [luci-app-adguardhome](https://github.com/chenmozhijin/luci-app-adguardhome) :AdGuardHome广告屏蔽工具的luci设置界面  
   luci-app-ddns：动态 DNS  
-  luci-app-firewall：防火墙  
+  luci-app-firewall 防火墙  
+  luci-app-ipsec-server ipsecVPN
   [luci-app-netdata](https://github.com/netdata/netdata) 实时监控  
   luci-app-nlbwmon：网络带宽监视器  
   luci-app-opkg：软件包  
   [luci-app-openclash](https://github.com/vernesong/OpenClash):可运行在 OpenWrt 上的 Clash 客户端  
   [luci-app-passwall](https://github.com/xiaorouji/openwrt-passwall)：passwall  
-  [luci-app-socat](https://github.com/chenmozhijin/luci-app-socat)：Socat网络工具  
   luci-app-ttyd：ttyd 终端  
   luci-app-vlmcsd：KMS 服务器  
   [luci-app-parentcontrol](https://github.com/sirpdboy/luci-app-parentcontrol)  家长控制
